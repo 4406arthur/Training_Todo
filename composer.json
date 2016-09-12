@@ -1,0 +1,16 @@
+{
+    "name": "arthurma/todo_doctrine_odm",
+    "description": "a taste for odm",
+    "type": "project",
+    "require": {
+        "doctrine/mongodb-odm": "~1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ArthurMa",
+            "email": "arthurma@loftechs.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
